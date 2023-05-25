@@ -24003,6 +24003,7 @@ MonoBehaviour:
   speed: 5
   health: 100
   power: 100
+  isDeath: 0
   coinsText: {fileID: 1837439141}
   swordSound: {fileID: 8300000, guid: 0ff621d985ad08f43b2698ca4848a2cb, type: 3}
   swordFireSound: {fileID: 8300000, guid: fed394d92f1a12042980c427ff53de1c, type: 3}
@@ -24010,13 +24011,12 @@ MonoBehaviour:
   potionCollect: {fileID: 8300000, guid: e5d14bcc4d3e7a14a83c8949e8ff0f98, type: 3}
   hitSound: {fileID: 8300000, guid: c47ae6f21e9a1b74eb16fd4e4c6e1ba0, type: 3}
   blood: {fileID: 613181779}
-  FireUI: {fileID: 799340434}
   attackMode: 1
   coins: 0
   powerMessage: {fileID: 855606459}
-  isDeath: 0
   playerLives: 3
   defeatFade: {fileID: 2018497205}
+  FireUI: {fileID: 799340434}
 --- !u!4 &1935828885
 Transform:
   m_ObjectHideFlags: 0
