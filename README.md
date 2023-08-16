@@ -5,6 +5,8 @@
  
  Memoria de trabajo: [DreamLoop-MemoriaTrabajo.pdf](https://github.com/Berto-e/DreamLoop/files/11564245/DreamLoop-MemoriaTrabajo.pdf)
 
+Descargar Juego: https://drive.google.com/drive/folders/1HZuxThvumTa7_rlUpASWfL9dbU5QH9Wp?usp=sharing
+
 # Imagenes del juego: 
  
 ![Sin título](https://github.com/Berto-e/DreamLoop/assets/65825564/1594d7a5-a8e1-477b-b5d3-5901764ae825)
